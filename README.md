@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @cherakuthota
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+to be updated ..........
 
 <!---
 cherakuthota/cherakuthota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
